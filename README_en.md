@@ -1,31 +1,44 @@
-# Hello, I am a Passionate Developer 🚀
+# Hi, I'm Dylan Andrés Elizondo Alvarado 🚀
 
-Welcome to my GitHub profile! I am a third-year university student with a strong passion for software development and problem-solving through programming.
+Information Systems Engineering student at the National University of Costa Rica (UNA), passionate about software development, data analysis, and machine learning.
 
 ---
 
 ## About Me
 
-Throughout my academic journey, I have worked on developing desktop and Android mobile applications, which has helped me strengthen my skills in programming logic and data structures. Currently, I am exploring the world of web development, learning modern technologies to create dynamic and interactive applications.
-
-I am motivated by the constant challenge of learning and expanding my knowledge in technology, especially in areas such as data analysis and machine learning (ML), fields that I am actively studying.
-
-My goal is to continue improving my skills and contribute innovative solutions that generate a positive impact on society.
+I have developed desktop and Android mobile applications, strengthening my skills in programming logic and data structures. Currently, I’m focusing on cloud technologies, data science, and machine learning to create innovative solutions.
 
 ---
 
-## Technologies and Skills
+## Highlighted Experience
 
-Here are some of the technologies and tools I handle or am learning:
+- **Software Developer (Data Science focus):** Developed reinforcement learning, regression, and classification models using Python and NumPy.  
+- **Student Assistant in Discrete Structures:** Led study sessions and provided support using Wolfram Mathematica.  
+- **Scrum Master:** Agile coordination and process automation.
 
-* ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-* ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-* ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-* ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-* Data Analysis & Machine Learning (ML)
+---
+
+## Technologies
+
+**Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL--SQL-003B57?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Databases:**  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Data Science Tools:**  
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Cloud & DevOps:**  
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## Currently Learning: Data Science
+
+I’m deepening my knowledge in these tools and technologies to grow further in data science:
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-1A86FF?style=for-the-badge&logo=seaborn&logoColor=white)  
 
 ---
 
@@ -33,3 +46,7 @@ Here are some of the technologies and tools I handle or am learning:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-elizondo-alvarado-148867324)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dylalva1933@gmail.com)
+
+---
+
+Thanks for stopping by! 🚀
