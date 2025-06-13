@@ -1,13 +1,11 @@
 # Bienvenido / Welcome
 ### 📊 Estadísticas/Statistics GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Dylalva&show_icons=true&theme=radical)
-![Repositorios más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylalva&layout=compact&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dylalva&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <details>
-  <summary>Español</summary>
+  <summary><h1>Español</h1></summary>
 
   ---  
 # Hola, soy Dylan Andrés Elizondo Alvarado 🚀
@@ -64,7 +62,7 @@ Actualmente estoy profundizando en estas tecnologías y herramientas para seguir
 ¡Gracias por pasar por aquí! 🚀
 </details>
 <details>
-  <summary>English</summary>
+  <summary><h1>English</h1></summary>
 
 ---
 # Hi, I'm Dylan Andrés Elizondo Alvarado 🚀
